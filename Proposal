@@ -1,0 +1,40 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+Temple Run Inspired Game
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+A simple running game similar to flash Run or Temple Run the mobile game.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+The software will be developed in C# within the unity game engine. It will have 3D graphical figures (such as the background and the path the player runs on) and measure the dietance the player runs. 
+Running animations of the character, an active 3rd person camera, and (hopefullu) randomy generated paths will be implemented. It will feature a start menu and a game over screen. 
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+The basic coding strategies and knowledge that we have learned from 1051 will be implemented in creating the game as well as the skills we also have obtained in 1057 since much of unity uses c# to code.
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+John Ramgolam, tup71717@temple.edu, TA Chong Li, Justin Lazarus, tui86499@temple.edu, TA Chong Li, Aditya Sai Yaganti, tuq12845@temple.edu, TA Chong li
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+We hope to accomplish the basic background and foreground of the Temple Run inspired game, but we are unsure about the randomly generated paths that we wish to introduce. If all else fails, we have the option of creating the mods for the Binding of Issac Game that we spoke of on Thursday 4/6/23.
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+Definetly the mods, and the background for the Temple Run Game. 
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+We hope to accomplish a functioning, full fledge moc version of Temple Run that we described originally in the previous question. 
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+We plan on learning the basics of c# programming as well as the unity engine, modeling, and random generation in games. There are resources online via Youtube and Wikis that have already put together the first steps. We hope that this will be enough. 
